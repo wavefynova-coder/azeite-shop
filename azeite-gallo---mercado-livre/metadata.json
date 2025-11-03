@@ -1,0 +1,5 @@
+{
+  "name": "Azeite Gallo - Mercado Livre",
+  "description": "A fully functional replica of a Mercado Livre product page, built with React, TypeScript, and Tailwind CSS. It showcases detailed product information, user reviews, Q&A, and related products in a familiar e-commerce layout.",
+  "requestFramePermissions": []
+}
